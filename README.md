@@ -1,2 +1,2 @@
 # js-constructor
-vanilla JS site constructor within Vladilen Minit practical guide
+vanilla JS site constructor within Vladilen Minin practical guide
